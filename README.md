@@ -1,5 +1,8 @@
 # react-native-image-crop-picker
 
+由于这个库打开相机时，同时需要相机、存储权限，不符合当前中国的相关政策。在打开相机的部分针对权限申请做了修改。
+Since this library requires camera and storage permissions when opening the camera, it does not comply with current Chinese policies. Modifications have been made to the permission application in the part of opening the camera.
+
 [![Backers on Open Collective](https://opencollective.com/react-native-image-crop-picker/backers/badge.svg)](#backers) [![Sponsors on Open Collective](https://opencollective.com/react-native-image-crop-picker/sponsors/badge.svg)](#sponsors)
 
 <img src="svg.svg" width="50%" height="50%" />
